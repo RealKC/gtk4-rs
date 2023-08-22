@@ -1,1 +1,1 @@
-initSidebarItems({"derive":[["CompositeTemplate","Derive macro for using a composite template in a widget."]]});
+window.SIDEBAR_ITEMS = {"attr":["template_callbacks","test"],"derive":["CompositeTemplate"]};
